@@ -10,7 +10,7 @@ const HomeInfo = ({ currentStage }) => {
         <span className='font-semibold mx-2 text-white'>LAARIDI Aymane</span>
         👋
         <br />
-        A Software Engineer from Morocco 🇭🇷
+        A Software Engineer from Morocco 🇲🇦
       </h1>
     );
 
